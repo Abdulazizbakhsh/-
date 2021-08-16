@@ -1,8 +1,8 @@
-# -#include <Servo.h>
+#include <Servo.h>
 
-#define LedPin 2  // :LED
+#define LedPin 2  //أستبدلت الفيديو ب :LED
 
-Servo servo;  //
+Servo servo;  // أستبدلت الأذرع الكاملة ب سيرفو واحد فقط حاليأ
 
 void setup()
 {
